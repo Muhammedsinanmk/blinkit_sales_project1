@@ -1,7 +1,4 @@
-# blinkit_sales_project1
-Here’s a clean, professional README you can copy directly into your GitHub repo for your Blinkit-style sales dashboard project:
-
----
+# blinkit_sales_project
 
 # 🛒 Blinkit Sales Dashboard (Power BI)
 
